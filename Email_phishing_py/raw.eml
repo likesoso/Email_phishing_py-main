@@ -1,0 +1,58 @@
+To: "aaa@aaa.com" <aaa@aaa.com>
+Date: Fri Oct 30 16:29:22 2020+0800
+Subject: =?UTF-8?B?566h55CG5ZGY?=
+From: =?UTF-8?B?566h55CG5ZGY?= <admin@replay.qq.com>
+X-Priority: 3
+X-MSAPipeline: MessageDispatcherEOP
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="=-jErKQFJf2OxSAwY17mIV2g=="
+Return-Path: account-security-noreply@accountprotection.microsoft.com
+
+--=-jErKQFJf2OxSAwY17mIV2g==
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Microsoft 帐户
+
+您的Outlook已过期
+
+由于系统升级、Outlook需要重新获取验证
+
+为了不影响您的正常业务使用，我们只需确保这是你的电子邮件地址。
+
+验证账户
+
+谢谢!
+Microsoft 帐户团队
+--=-jErKQFJf2OxSAwY17mIV2g==
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070;">Microsoft 帐户</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec;">您的Outlook已过期</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">由于系统升级、Outlook需要重新获取验证</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">为了不影响您的正常业务使用，我们只需确保这是你的电子邮件地址。</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec;"><a href="http://qq.com">验证账户</a></td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">谢谢!</td></tr>
+      <tr><td id="i8" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a;">Microsoft 帐户团队</td></tr>
+</table>
+</body>
+</html>
+--=-jErKQFJf2OxSAwY17mIV2g==--
